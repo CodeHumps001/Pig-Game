@@ -278,17 +278,17 @@ main {
   }
 
   .btn--new {
-    top: 43rem;
+    top: 46rem;
     left: 50%;
   }
   .btn--roll {
-    top: 180px;
+    top: 192px;
     left: 40px;
     width: 75px;
     height: 50px;
   }
   .btn--hold {
-    top: 180px;
+    top: 192px;
     left: 87%;
   }
 
@@ -304,7 +304,7 @@ main {
   .dice {
     position: absolute;
     left: 50%;
-    top: 17.7rem;
+    top: 18.2rem;
     transform: translateX(-30%);
     height: 5rem;
     box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
